@@ -6,8 +6,7 @@ Welcome to my portfolio website, where you can view my resume and projects. This
 
 Below you can watch a preview video of the site.
 
-![profile-img](https://github.com/pmonteirorf/myResume/assets/71394772/72f52268-cc1b-407d-beee-3c492969029d)
-https://github.com/pmonteirorf/myResume/assets/71394772/610152b1-9077-42bf-af6a-ae7fd97ae8dd
+https://github.com/pmonteirorf/myResume/assets/71394772/c3f054b7-e9c5-451f-965c-8c7f60042abb
 
 
 ## About
