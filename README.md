@@ -1,19 +1,19 @@
 # My Resume
 
-Bem-vindo ao meu site de portfólio, onde você pode visualizar meu currículo e projetos. Este site foi criado para mostrar minhas habilidades e experiências de uma maneira profissional e atraente.
+Welcome to my portfolio website, where you can view my resume and projects. This site was created to showcase my skills and experiences in a professional and attractive manner.
 
 ## Preview
 
-Abaixo você pode assistir a um vídeo de prévia do site.
+Below you can watch a preview video of the site.
 
 <video width="600" controls>
   <source src="assets/img/mockup.mp4" type="video/mp4">
-  Seu navegador não suporta o elemento de vídeo.
+  Your browser does not support the video element.
 </video>
 
-## Sobre
+## About
 
-Este site foi desenvolvido utilizando as seguintes tecnologias:
+This site was developed using the following technologies:
 
 - HTML5
 - CSS3
@@ -21,28 +21,25 @@ Este site foi desenvolvido utilizando as seguintes tecnologias:
 - AOS - Animate On Scroll Library
 - Bootstrap 5
 
-## Funcionalidades
+## Features
 
-- Exibição interativa do currículo
-- Portfólio de projetos com descrições detalhadas
-- Contato via formulário integrado
-- Responsivo para dispositivos móveis
+- Interactive resume display
+- Project portfolio with detailed descriptions
+- Mobile responsive design
 
-## Como Acessar
+## How to Access
 
-Você pode acessar o site diretamente pelo link abaixo:
+You can access the site directly via the link below:
 
-[Visitar o Site](https://pmonteirorf.github.io/myResume)
+[Visit the Site](https://pmonteirorf.github.io/myResume)
 
-## Contato
+## Contact
 
-Para mais informações ou para discutir oportunidades, entre em contato comigo através das seguintes plataformas:
+For more information or to discuss opportunities, please contact me through the following platforms:
 
 - [LinkedIn](https://www.linkedin.com/in/priscilla-monteiro-rangel-da-fonseca/)
 - [Email](mailto:pmonteirorf@gmail.com)
 
-## Licença
+## License
 
-Este projeto é licenciado sob a [MIT License](LICENSE).
-
-
+This project is licensed under the [MIT License](LICENSE).
